@@ -1,19 +1,19 @@
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/jf_font.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/fixes.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/base.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/accentlist.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/rounding.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/smallercast.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/episodelist/episodes_compactlist.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/header/header_transparent-dashboard.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/login/login_frame.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/fields/fields_noborder.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/cornerindicator/indicator_corner.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/type/colorful.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/titlepage/title_simple.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/overlayprogress.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/effects/hoverglow.css');
-@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/effects/glassy.css');
+@import url('https://github.com/theplagu3/Ultrachromic/jf_font.css');
+@import url('https://github.com/theplagu3/Ultrachromic/fixes.css');
+@import url('https://github.com/theplagu3/Ultrachromic/base.css');
+@import url('https://github.com/theplagu3/Ultrachromic/accentlist.css');
+@import url('https://github.com/theplagu3/Ultrachromic/rounding.css');
+@import url('https://github.com/theplagu3/Ultrachromic/smallercast.css');
+@import url('https://github.com/theplagu3/Ultrachromic/episodelist/episodes_compactlist.css');
+@import url('https://github.com/theplagu3/Ultrachromic/header/header_transparent-dashboard.css');
+@import url('https://github.com/theplagu3/Ultrachromic/login/login_frame.css');
+@import url('https://github.com/theplagu3/Ultrachromic/fields/fields_noborder.css');
+@import url('https://github.com/theplagu3/Ultrachromic/cornerindicator/indicator_corner.css');
+@import url('https://github.com/theplagu3/Ultrachromic/type/colorful.css');
+@import url('https://github.com/theplagu3/Ultrachromic/titlepage/title_simple.css');
+@import url('https://github.com/theplagu3/Ultrachromic/overlayprogress.css');
+@import url('https://github.com/theplagu3/Ultrachromic/effects/hoverglow.css');
+@import url('https://github.com/theplagu3/Ultrachromic/effects/glassy.css');
 
 
 
@@ -21,5 +21,5 @@
 
 /*Style backdrop*/
 .backdropImage {
-  filter: blur(18px) saturate(120%) contrast(120%) brightness(40%);
+  filter: blur(4px) saturate(120%) contrast(120%) brightness(40%);
 }
