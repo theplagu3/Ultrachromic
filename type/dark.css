@@ -152,7 +152,7 @@ a[data-role="button"] {
 .fab:hover,
 .navMenuOption:hover,
 .actionSheetMenuItem:hover {
-  background: rgba(80, 80, 80, 0.8) !important;
+  background: rgba(80, 80, 80, 0.4) !important;
 }
 .paper-icon-button-light:hover {
   background-color: rgba(0, 0, 0, 0.4) !important;
