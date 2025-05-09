@@ -198,7 +198,7 @@ div[data-role="controlgroup"] a[data-role="button"] {
 /*Hover background for section title buttons*/
 .button-flat:hover {
 	background: rgba(0, 164, 220, 0.2);
-	color: #00a4dc !important;
+	color: #00a4dc  !important;
 }
 .dashboardSection h3 {
     margin: .5em .0em .5em .5em;
