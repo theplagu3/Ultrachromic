@@ -1,13 +1,13 @@
-@supports (backdrop-filter: blur(15px)) {
+@supports (backdrop-filter: blur(10px)) {
   .skinHeader-withBackground,
   .css-fknfom {
-    backdrop-filter: blur(15px);
+    backdrop-filter: blur(10px);
   }
   .dialog,
   .mainDrawer,
   .toast,
   .appfooter {
-    backdrop-filter: blur(15px);
+    backdrop-filter: blur(10px);
     background-color: rgba(0, 0, 0, 0.35);
   }
   .paper-icon-button-light:hover,
